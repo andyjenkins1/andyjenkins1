@@ -8,13 +8,10 @@ I also share thought leadership across the industry on AI strategy, scalable AI 
 
 ### About Me
 
-Working : Microsoft Azure ☁️
-Learning : Vibe Coding solutions and how far you can get to production 🤖
-Ask me about : Anything & everything, always happy to help! 👍
+- Working : Microsoft Azure ☁️
+- Learning : Vibe Coding solutions and how far you can get to production 🤖
+- Ask me about : Anything & everything, always happy to help! 👍
 
-### Contacts
-
-xxxxx
 
 
 <!--
