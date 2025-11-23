@@ -1,5 +1,3 @@
-![Header](./aj-github-header-banner.png)
-
 ## Andy Jenkins 🦄🚀 
 
 ### Introduction
