@@ -1,8 +1,6 @@
 ## Andy Jenkins 🦄🚀 
 
----
-
-## Introduction
+### Introduction
 
 I’m a Technical Leader at Microsoft, supporting EMEA’s largest digital-native companies on their AI transformation journeys.
 
