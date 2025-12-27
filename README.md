@@ -10,10 +10,10 @@ I also share thought leadership across the industry on AI strategy, scalable AI 
 
 ### About Me
 
-- Working : Microsoft Azure ☁️
-- Work Learning: Scaling frontier models across multiple azure regions for training and inference workloads
-- Personal Learning : Vibe Coding solutions and how far you can get to production 🤖
-- Ask me about : Anything & everything, always happy to help! 👍
+- **Working:** Microsoft Azure ☁️
+- **Work Learning :** Scaling frontier models across multiple azure regions for training and inference workloads
+- **Personal Learning :** Vibe Coding solutions and how far you can get to production 🤖
+- **Ask me about :** Anything & everything, always happy to help! 👍
 
 
 
